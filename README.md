@@ -1,0 +1,1 @@
+This repository contains examples of common VBScript bugs related to late binding and implicit type conversion.  The `bug.vbs` file demonstrates the problems, while `bugSolution.vbs` provides corrected versions with explanations.
